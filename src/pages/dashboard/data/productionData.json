@@ -1,0 +1,30 @@
+[
+    {
+        "label": "dom",
+        "value": 120000
+    },
+    {
+        "label": "seg",
+        "value": 900000
+    },
+    {
+        "label": "ter",
+        "value": 400000
+    },
+    {
+        "label": "qua",
+        "value": 33000
+    },
+    {
+        "label": "qui",
+        "value": 402300
+    },
+    {
+        "label": "sex",
+        "value": 800000
+    },
+    {
+        "label": "sab",
+        "value": 12000
+    }
+]
